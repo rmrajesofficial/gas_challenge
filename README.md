@@ -48,8 +48,3 @@ The library has been configured to output the estimated gas costs to a new `gas-
 This command will also check if the sum of the array returns 0. You can refer below to view the terminal console when all tests have passed!
 
 ![image](https://github.com/clement-stackup/gas_challenge/assets/120361535/760df9a2-c9f5-4c0f-af50-7a88093bdbda)
-
-## Bounty Submission
-
-Upload all your working files to your GitHub Repository and submit your GitHub Repository URL to the StackUp Gas Optimization Challenge Bounty Page to successfully complete this challenge!
-
